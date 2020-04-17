@@ -7,6 +7,8 @@ This repository contains the implementation of the final project for Image Proce
 
 The idea behind the project is to create speed estimation system with the minimum use of library functions. We only used OpenCV for frame reading and character overlay, all other functions were implemented manually
 
+This is not the cleanest or the most efficient implementation as we were running out of time, shall you have any questions, feel free to ask
+
 <p>
   <img src="images/example.jpg" width="500" />
 </p>
